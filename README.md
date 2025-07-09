@@ -91,7 +91,6 @@ Price = BasePrice \cdot (1 + 0.2 \cdot NormalizedDemand)
 ├── output_stream.csv         # Result with pricing models
 ├── DynamicPricing.ipynb      # Main Colab notebook
 ├── README.md                 # Project documentation
-└── report.pdf (optional)     # Project report (if available)
 ```
 
 ---
